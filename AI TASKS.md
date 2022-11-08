@@ -1,4 +1,12 @@
 # Devika_ACMAI
-
-
+Task 1
+1_hackerrank profile
 <a href = "https://www.hackerrank.com/dashboard"> Hackerrank Profile</a>
+
+2_github profile
+"
+
+3_linkedin profile
+"https://www.linkedin.com/in/devika-r-4a3389256/"
+
+4_devpost profile
