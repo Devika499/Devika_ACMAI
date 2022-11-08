@@ -4,7 +4,7 @@ Task 1
 <a href = "https://www.hackerrank.com/dashboard"> Hackerrank Profile</a>
 
 2_github profile
-"
+"https://github.com/Devika499"
 
 3_linkedin profile
 "https://www.linkedin.com/in/devika-r-4a3389256/"
