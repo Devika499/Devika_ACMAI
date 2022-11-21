@@ -14,3 +14,7 @@ Task 1
 
 youtube video link
 https://www.youtube.com/watch?v=OOvP_dahMk4&t=5s
+
+Task 5:
+https://www.hackerrank.com/contests/ai-sig-freshers/challenges/list-statistics/submissions/code/1352209448
+https://www.hackerrank.com/contests/ai-sig-freshers/challenges/strings-similarity/submissions/code/1352208732
