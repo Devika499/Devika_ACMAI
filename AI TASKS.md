@@ -1,5 +1,5 @@
 # Devika_ACMAI
-Task 1
+Task 1:
 1_hackerrank profile
 <a href = "https://www.hackerrank.com/dashboard"> Hackerrank Profile</a>
 
@@ -12,6 +12,7 @@ Task 1
 4_devpost profile
 "https://devpost.com/rdevika861?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"
 
+Task 2:
 youtube video link
 https://www.youtube.com/watch?v=OOvP_dahMk4&t=5s
 
